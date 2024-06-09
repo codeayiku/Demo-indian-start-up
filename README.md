@@ -1,7 +1,6 @@
 # Indian Startup Ecosystem Analysis
 
 ![Indian Startup Ecosystem](images/indian_startup_ecosystem_banner.jpg)
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Overview](#data-overview)
@@ -72,7 +71,7 @@ The Power BI dashboard provides an interactive interface to explore the Indian s
 
 ### How to Use the Dashboard
 1. Open the Power BI file (`Indian_Startup_Ecosystem.pbix`).
-2. Use the filters at the top to narrow down the data.
+2. Use the filters at the left to narrow down the data.
 3. Hover over charts for detailed insights.
 4. Click on segments of the charts to see related data updates.
 
@@ -89,7 +88,7 @@ The Power BI dashboard provides an interactive interface to explore the Indian s
 - **Investor Network Analysis**: Mapping connections and networks between investors.
 
 ## Contributing
-We welcome contributions to enhance the analysis and insights. Please fork the repository and create a pull request with detailed changes.
+I welcome contributions to enhance the analysis and insights. Please fork the repository and create a pull request with detailed changes.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
