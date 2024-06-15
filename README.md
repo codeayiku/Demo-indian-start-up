@@ -20,7 +20,7 @@
 The Indian Startup Ecosystem Analysis provides a comprehensive overview of the trends, distributions, and key players within the startup environment in India from 2018 to 2021. This analysis aims to uncover valuable insights into funding patterns, sectoral growth, geographical hotspots, and investor behavior to aid stakeholders in making informed decisions.
 
 ## Data Overview
-The dataset used in this analysis includes information about startups, their funding amounts, sectors, founding years, investors, and stages of investment. The data was sourced from [source if applicable] and cleaned for accuracy and relevance.
+The dataset used in this analysis includes information about startups, their funding amounts, sectors, founding years, investors, and stages of investment. The data was sourced from a database, onedrive and github repo and cleaned for accuracy and relevance.
 
 ### Key Columns:
 - **StartupName**: The name of the startup.
